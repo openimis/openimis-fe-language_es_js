@@ -5,7 +5,7 @@
   "description": "openIMIS Spanish translation module",
   "repository": "openimis/openimis-fe-language_es_js",
   "main": "dist/index.js",
-  "module": "dist/index.pt.js",
+  "module": "dist/index.es.js",
   "engines": {
     "node": ">=8",
     "npm": ">=5"
