@@ -1,7 +1,7 @@
 import messages_es from "./translations/es.json";
 
 const DEFAULT_CONFIG = {
-  "translations": [{ key: "es", messages: messages_es }],
+  "translations": [{ key: "es", messages: messages_es_es }],
 }
 
 export const LanguagePtBrModule = (cfg) => {
